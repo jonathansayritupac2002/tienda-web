@@ -1,0 +1,170 @@
+equipo 1
+Computadora Core I5 6Th Gen
+CPU Intel Core i5 6th
+Disco Sólido SSD 512GB
+Memoria RAM 16GB DDR4
+Monitor 19" HD LCD
+Mainboard H110
+ VGA / HDMI 
+Teclado/ mouse/WIFI
+Fuente Real 350 W
+S/ 1,899
+
+equipo 2
+Computadora CORE I7 3th Gen
+Core i7 3Th 3.4 GHz
+4 Núcleos cache 8MB
+Disco duro HDD 2TB
+Disco Sólido SSD 256GB
+Memoria RAM 16GB DDR3 / 1600 MHz
+Monitor  22" FHD
+Mainboard B75
+RJ45/ VGA/ Display Port/WIFI
+Teclado/ mouse
+Fuente real 350 W
+S/ 2,099
+
+equipo 3
+Computadora CORE I7 11700K 11th Gen
+CPU Intel Core I7 11700K
+3.6 GHz 8 Núcleos Cache 16MB
+Disco Sólido SSD 500GB
+Memoria RAM 16 GB DDR4 / 3200mhz
+Monitor LCD 22" FHD
+Mainboard B560
+DVI/ VGA/ HDMI
+Teclado/ mouse / Wifi
+Fuente Real 550 W
+Cooler Gamemax
+S/ 3,699
+
+laptop 1
+Laptop Lenovo Ideapad 3 Gaming 15.6" Core I5 11th
+Intel Core i5 11300H  3.1GHz
+4 núcleos, Caché 8MB
+Disco Duro HDD 1TB
+Disco Sólido SSD M.2 512GB
+Memoria RAM 16GB DDR4 
+Pantalla 15.6" FHD IPS
+Video Nvidia Geforce GTX1650 4GB
+HDMI 2.0/USB A 3.2/RJ-45
+Bluetooth 5.0 / Wi-Fi
+WebCam 720p
+Teclado en inglés + numérico
+Windows 11 Home
+Batería 80 Wh
+S/ 3,999
+
+laptop 2
+Laptop HP 640 G2 14" Core I5
+Intel Core i5 6300U 2.4 GHz
+2 núcleos, caché 3MB
+Disco Duro HDD 1TB
+Disco Sólido SSD 256 GB
+Memoria RAM 8 GB DDR4 
+Pantalla Led 14" HD
+Video Intel HD Graphics 520
+VGA/USB 3.2/DisplayPort
+WebCam
+Wireless 802.11a
+Bluetooth 4.0
+Batería 3 Celdas
+S/ 1,799
+
+laptop 3
+Laptop HP Victus 15-FA0031DX 15.6" Core I5 12th
+Laptop Intel Core i5 12450H 
+3.30 GHz turbo 4.40 GHz Caché 12 MB núcleos 8
+Disco Sólido SSD 512GB
+RAM 16 GB DDR4 
+Pantalla FHD 15.6" IPS LED 144Hz
+Tarjeta de video NVIDIA GeForce GTX 1650 4GB
+RJ45 / HDMI / USB 2.0 
+Windows 11
+Wi-Fi 6 (802.11ax) - Bluetooth 5.0
+Teclado en inglés retroiluminado
+Batería 3 celdas 52.5Wh
+S/ 4,199
+
+juego 1
+God of war
+Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también.
+
+Requiere un procesador y un sistema operativo de 64 bits
+SO: Windows 10 64-bit
+Procesador: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)
+Memoria: 8 GB de RAM
+Gráficos: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)
+DirectX: Versión 11
+Almacenamiento: 70 GB de espacio disponible
+Notas adicionales: DirectX feature level 11_1 required
+
+juego 2
+Injustice : god among us
+Heroes y villanos se enfrentarán en épicas batallas a una enorme escala en un mundo donde la línea entre el bien y el mal ha sido borrada.
+
+SO: 64-bit Windows 7 / Windows 8 / Vista
+Procesador: Intel Core i5-750, 2.67 GHz or AMD Phenom II X4 965, 3.4 GHz or better
+Memoria: 4 GB de RAM
+Gráficos: NVIDIA® GeForce™ GTX 560 or AMD® Radeon™ HD 6950
+DirectX: Versión 11
+Red: Conexión de banda ancha a Internet
+Almacenamiento: 22 GB de espacio disponible
+Notas adicionales: Windows XP and DirectX® 9.0b and below not supporte
+
+juego 3
+Days gone
+Lucha y recorre un Estados Unidos pospandémico letal. Ponte en la piel de Deacon St. John, un errante cazarrecompensas que recorre la carretera rota luchando por su supervivencia mientras busca una razón para seguir viviendo en este juego de acción y aventura de mundo abierto
+
+Requiere un procesador y un sistema operativo de 64 bits
+SO: Windows 10 64-bits
+Procesador: Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz
+Memoria: 16 GB de RAM
+Gráficos: Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)
+DirectX: Versión 11
+Almacenamiento: 70 GB de espacio disponible
+Notas adicionales: Though not required, SSD for storage is recommended
+
+juego 4
+Detroit
+Detroit: Become Human pone el destino de la humanidad y los androides en tus manos. Cada decisión que tomes afectará al resultado del juego, en una de las tramas narrativas con ramificaciones más intrincadas que jamás se ha visto.
+
+Requiere un procesador y un sistema operativo de 64 bits
+SO: Windows 10 (64 bit)
+Procesador: Intel Core i5-6600 @ 3.3 GHz or AMD Ryzen 3 1300 X @ 3.4 GHz
+Memoria: 12 GB de RAM
+Gráficos: Nvidia GeForce GTX 1060 or AMD Radeon RX 580 with 4GB VRAM minimum (Support of Vulkan 1.1 required)
+Almacenamiento: 55 GB de espacio disponible
+
+juego 5
+Horizon Zero Dawn
+Vive la misión legendaria de Aloy para desvelar los secretos de una futura Tierra dominada por máquinas. ¡Usa devastadores ataques contra tus depredadores y explora un majestuoso mundo abierto en este galardonado RPG de acción!
+
+Requiere un procesador y un sistema operativo de 64 bits
+SO: Windows 10 64-bits
+Procesador: Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz
+Memoria: 16 GB de RAM
+Gráficos: Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8GB)
+DirectX: Versión 12
+Almacenamiento: 100 GB de espacio disponible
+
+juego 6
+Red dead redemption 
+Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es la épica historia de Arthur Morgan y la banda de Van der Linde, que huyen por toda América en el albor de una nueva era
+
+Requiere un procesador y un sistema operativo de 64 bits
+SO: Windows 10 - April 2018 Update (v1803)
+Procesador: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X
+Memoria: 12 GB de RAM
+Gráficos: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB
+Red: Conexión de banda ancha a Internet
+Almacenamiento: 150 GB de espacio disponible
+Tarjeta de sonido: Direct X Compatible
+
+tipo de letra
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rhodium+Libre&display=swap" rel="stylesheet">
+
+font-family: 'Rhodium Libre', serif;

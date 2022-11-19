@@ -1,0 +1,230 @@
+body{
+    font-family: 'Rhodium Libre', serif;
+    background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+
+}
+footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #323B58;
+    bottom: 0%;
+
+}
+ul{
+  text-align: center;
+}
+/*menu*/
+.menu-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #323B58;
+  }
+  
+  .menu-li {
+    float: left;
+  }
+  
+  .menu-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .menu-li a:hover:not(.active) {
+    background-color: #6F3857;
+  }
+  /* imagen inicio */
+  
+  .contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .centrado{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: #C08189;
+    opacity: 0,4;
+}
+
+.titulo-index{
+    font-size: 6rem;
+    color: #DFDFE1;
+}
+
+/* cards*/
+.cart{
+    /* adds shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0,2);
+    transition: 0,3s;
+}
+
+/* on mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0,2);
+}
+
+/* add some padding inside the card container */
+.container{
+    padding: 2px 16px;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+/* juegos */
+.wrapper-juegos{
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+    gap: 0;
+    padding-top: 150px;
+    transform-origin: 0 0;
+    transform: skewY(-6deg);
+}
+
+/* hover de juegos */
+.tooltip{
+  position: static;
+}
+
+.tooltip .tooltiptext{
+  visibility: hidden;
+  width: 30%;
+  background-color: #323B58;
+  color: #C08189;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* posicion tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext{
+  visibility: visible;
+}
+
+
+/* contactos */
+h1{
+    text-align: center;
+    color: #C08189;
+}
+p{
+    text-align: center;
+    color: #323B58;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+/* Popup de equipos 
+clase overlay que hará el efecto modal. El truco consiste en poner fija la posición de la capa 
+y sus 4 direcciones en 0. La propiedad visibility estará en hidden. La opacidad será 0 inicialmente, 
+haciendo una simple transición de medio segundo.
+*/
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+/*
+la pseudo clase target que funciona cuando un elemento está activo, como en este caso la clase overlay. 
+Lo que haremos será simplemente poner la propiedad visibility en visible, y regresar la opacidad en 1.
+*/
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+#popupBody{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;    
+}
+#popupBody2{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;
+}
+#popupBody3{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;
+}
+#popupBody4{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;
+}
+#popupBody5{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;
+}
+#popupBody6{
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #CCC;
+  background: #FFF;
+  position: relative;
+  transition: all 5s ease-in-out;
+  margin: 20% auto;
+}
+#cerrar{
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #F00;
+}
